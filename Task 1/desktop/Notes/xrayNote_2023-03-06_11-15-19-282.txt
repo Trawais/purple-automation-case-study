@@ -1,0 +1,2 @@
+Are we sure that mandatory item list is complete? I would expect at least
+“firstname”, “currency” as mandatory as well.

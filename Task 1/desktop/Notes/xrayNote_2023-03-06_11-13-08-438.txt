@@ -1,0 +1,2 @@
+The mandatory items are: * lastname * phone * email * deposit * iAgreeDemo
+(checkbox)

@@ -1,0 +1,2 @@
+I would check the international format for the phone field. Currently there is
+no limitation for the phone field.

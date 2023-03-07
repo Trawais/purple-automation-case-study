@@ -1,0 +1,3 @@
+According to ids in the source code the form fields are: * firstname * lastname
+* phone * country * email * platform * accountType * leverage * currency *
+deposit * iAgreeDemo

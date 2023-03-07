@@ -1,0 +1,2 @@
+Phone item has been accepted in definitely wrong format. I’ve provided string
+“asdfasdfasdf” and it’s not correct phone number in any country I assume.

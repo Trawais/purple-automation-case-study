@@ -1,0 +1,2 @@
+I try not to use desktop related inputs (like scrolling by mouse middle wheel)
+but I try to simulate all actions only by “touching the screen”.

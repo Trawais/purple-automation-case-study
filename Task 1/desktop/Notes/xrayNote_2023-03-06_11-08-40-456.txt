@@ -1,0 +1,3 @@
+The pattern for the email format is invalid so also e.g.: “asdf@example” si
+considered as valid email which is not. Hint: I see incorrect escaping of the
+regexp in the source code.
