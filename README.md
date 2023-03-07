@@ -23,7 +23,10 @@ I would suggest to add "automation id". In the most cases I've used standard id,
 I think having automation id where do you need is best practice.
 I would use something like `data-qa` or `data-automation` as a attribute name.
 
-### How to run it
+### How to run it?
+1. First you need to install all dependencies: `npm i`
+2. If you want to open Cypress windows you can do it by `npm run cy:open`
+3. If you want to run tests in CI you can use command `npm run cy:run`
 
 ### Problems found during automation implementation
 I've found several problems during automation. Here is the brief list
@@ -32,6 +35,7 @@ I've found several problems during automation. Here is the brief list
 * Some valid emails are not accepted by the form e.g.: `Prince_Mitchell71@gmail.com`. The problem is again not very good regexp in the source code for this field counting only with small letters. There could be for instance digits, capital letters or underscore in the valid email address. Again workaround in the automated scenario must be done.
 
 ## Task 4
-This is the most interesting part for me because I've never heard about `intercept()` functionality in Cypress framework.
+This was the most interesting part for me because I've never heard about `intercept()` functionality in Cypress framework.
 This is really cool feature and I am more than happy that I was able to play with it for few minutes.
-The result of trying is stored in `cypress/e2e/task4.cy.js` file.
+I can see this could be very useful.
+The result of playing is stored in `cypress/e2e/task4.cy.js` file.
